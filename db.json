@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "First Blog",
+      "author": "Akshay",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "id": 1
+    },
+    {
+      "title": "How to Design Database Schema",
+      "author": "Vamsi",
+      "body": "Designing a database schema is the first step in building a foundation in data management. Ineffective schema design can creates databases that are heavy consumers of memory and other resources, poorly defined, difficult to maintain and administer. The objective of this discussion is to provide an example of an effective data schema for a data project based on PostgreSQL. This discussion will provide a general foundation in data schema design, illustrated by building the infrastructure of a fantasy universe.\nInitially, we will create a database schema that will allow you to record data about a fantasy world. We will start by defining the primary components of this schema design.",
+      "id": 2
+    },
+    {
+      "title": "Is Automation helpful?",
+      "author": "Vikas",
+      "body": "Advantages commonly attributed to automation include higher production rates and increased productivity, more efficient use of materials, better product quality, improved safety, shorter workweeks for labour, and reduced factory lead times. Higher output and increased productivity have been two of the biggest reasons in justifying the use of automation. Despite the claims of high quality from good workmanship by humans, automated systems typically perform the manufacturing process with less variability than human workers, resulting in greater control and consistency of product quality. Also, increased process control makes more efficient use of materials, resulting in less scrap.",
+      "id": 3
+    },
+    {
+      "title": "New Blog",
+      "author": "Mario",
+      "body": "This is a new Blog.",
+      "id": 4
+    },
+    {
+      "title": "Build test.",
+      "author": "Akshay",
+      "body": "This is a test after build.",
+      "id": 5
+    }
+  ]
+}
